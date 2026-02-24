@@ -34,10 +34,10 @@ Reproduzir virtualmente os principais recursos da PicoDock:
 | LED RGB - Verde                              | 8    |
 | LED RGB - Azul                               | 9    |
 | Buzzer                                       | 10   |
-| ~~Sel_A_4051 (MUX)~~                             | ~~11~~   |
-| ~~Sel_B_4051 (MUX)~~                             | ~~12~~   |
-| ~~Sel_C_4051 (MUX)~~                             | ~~13~~   |
-| ~~ADC_IN_4051 (MUX)~~                            | ~~28~~   |
+| ~~Sel_A_4051 (MUX)~~                         | ~~11~~ |
+| ~~Sel_B_4051 (MUX)~~                         | ~~12~~ |
+| ~~Sel_C_4051 (MUX)~~                         | ~~13~~ |
+| ~~ADC_IN_4051 (MUX)~~                        | ~~28~~ |
 | LCD_TOUCH_X+ (Resistivo)                     | 14   |
 | LCD_TOUCH_X- (Resistivo)                     | 26   |
 | LCD_TOUCH_Y+ (Resistivo)                     | 27   |
@@ -49,5 +49,13 @@ Reproduzir virtualmente os principais recursos da PicoDock:
 | LCD_SPI_0_TX                                 | 19   |
 | LCD_DATA_CMD_SEL                             | 22   |
 | LCD_LITE                                     | 15   |
+
+---
+
+## 🌐 Simulação Online
+
+Este projeto pode ser consultado e executado diretamente no Wokwi:
+
+🔗 https://wokwi.com/projects/428326411815835649
 
 ---
