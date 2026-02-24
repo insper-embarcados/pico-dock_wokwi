@@ -34,10 +34,10 @@ Reproduzir virtualmente os principais recursos da PicoDock:
 | LED RGB - Verde                              | 8    |
 | LED RGB - Azul                               | 9    |
 | Buzzer                                       | 10   |
-| ~~Sel_A_4051 (MUX)                             | 11~~   |
-| ~~Sel_B_4051 (MUX)                             | 12~~   |
-| ~~Sel_C_4051 (MUX)                             | 13~~   |
-| ~~ADC_IN_4051 (MUX)                            | 28~~   |
+| ~~Sel_A_4051 (MUX)~~                             | ~~11~~   |
+| ~~Sel_B_4051 (MUX)~~                             | ~~12~~   |
+| ~~Sel_C_4051 (MUX)~~                             | ~~13~~   |
+| ~~ADC_IN_4051 (MUX)~~                            | ~~28~~   |
 | LCD_TOUCH_X+ (Resistivo)                     | 14   |
 | LCD_TOUCH_X- (Resistivo)                     | 26   |
 | LCD_TOUCH_Y+ (Resistivo)                     | 27   |
