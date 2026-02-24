@@ -1,4 +1,4 @@
-# PicoDock Simulator (Wokwi)
+# PicoDock Simulada (Wokwi)
 
 Simulação da **PicoDock** utilizando a **Raspberry Pi Pico (RP2040)** na plataforma **Wokwi**.
 
