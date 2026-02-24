@@ -14,7 +14,7 @@ Reproduzir virtualmente os principais recursos da PicoDock:
 - 1x LED RGB
 - 1x Buzzer (sem oscilador interno)
 - 1x Display OLED 128x32 (I2C)
-~~- 1x Multiplexador ADC 8x1 (CD4051)~~
+~~ - 1x Multiplexador ADC 8x1 (CD4051) ~~
 - 1x Interface para TFT LCD (SPI)
 - 1x Interface Touch (Resistivo / Capacitivo)
 ~~- Alimentação externa (simulada)~~
